@@ -1,0 +1,39 @@
+body {
+    font-family: 'poppins', sans-serif;
+}
+
+#color {
+    font-size: 50px;
+    color: orange;
+}
+
+.image {}
+
+section {
+    display: flex;
+}
+
+.frist {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.frist img {
+    width: 80%;
+}
+
+.style {
+    text-align: justify;
+}
+
+.HIRE-BUTTON {
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 10px;
+    font-weight: 700;
+    border-radius: 5%;
+    color: white;
+
+
+}
